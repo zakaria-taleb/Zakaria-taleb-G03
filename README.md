@@ -1,4 +1,5 @@
-
+Voici un lien vers le code écrit dans un online GDB Pour faciliter l'essai: 
+https://onlinegdb.com/dTwqzNONr
 
 q1: Quelles sont les structures de données à utiliser ?
 
